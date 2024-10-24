@@ -16,7 +16,7 @@ def time():
     label_time.after(1000, time)
 
 # Time label
-label_time = Label(root, font=("ds-digital", 113), background="black", foreground="yellow")
+label_time = Label(root, font=("ds-digital", 132), background="black", foreground="yellow")
 label_time.pack(anchor='center')
 
 # Date label
