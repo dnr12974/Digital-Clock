@@ -42,3 +42,5 @@ Add Weather Information: Integrate APIs to display the current weather.
 Alarm Clock Feature: Allow users to set alarms within the app.
 
 Resizable Window: Adjust the layout for better scalability on different devices.
+
+This project was assigned to me by Internpe.
